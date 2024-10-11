@@ -1,0 +1,9 @@
+h3{
+    font-size: 25px;
+}
+.blog{
+    height:  500px;
+    width: 1200px;
+    background-image: url('use.jpg');
+    background-size: 900px,800px;
+}
