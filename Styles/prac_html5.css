@@ -1,0 +1,31 @@
+nav>ul>li {
+    display: inline;
+
+}
+
+img.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+    width: 800px;
+}
+body{
+    background-color: rgb(224, 220, 214);
+}
+label{
+    display: block;
+    margin: 6px;
+}
+
+fieldset{
+    background-color: rgb(188, 202, 197);
+}
+table{
+    background-color: ghostwhite;
+    border-collapse: collapse;
+}
+td,th{
+    border: 1px solid black;
+    padding: 5px 10px;
+}
